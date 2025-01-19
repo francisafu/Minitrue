@@ -1,0 +1,34 @@
+# Program Test Link
+/config/sub_list_test.json
+/config/generate_link_test.json
+
+# Subconverter cache
+subconverter/cache/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Translations
+*.mo
+*.pot
+
+# dotenv
+.env
+
+# virtualenv
+venv/
+ENV/
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[Ll]ocal
+[Ss]cripts
+pyvenv.cfg
+.venv
+pip-selfcheck.json
+
+# JetBrains
+.idea

@@ -1,0 +1,12 @@
+{
+  "group": "SpeedTest",
+  "speedtestMode": "all",
+  "pingMethod": "googleping",
+  "sortMethod": "rspeed",
+  "concurrency": 16,
+  "testMode": 2,
+  "timeout": 3,
+  "fontSize": 24,
+  "language": "en",
+  "generatePicMode": 3
+}
